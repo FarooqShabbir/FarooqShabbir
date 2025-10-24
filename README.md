@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="center">Entrepreneur | Copywriter | Social Media Expert | Personal Branding Expert | AI | ML | React Native | Python | Deep Learning | IEEE Member (General Secretary) from Pakistan</h3>
+<h3 align="center">DevOps & Cloud Engineer | Goal to reach DevSecMLOps</h3>
 
 ###
 
