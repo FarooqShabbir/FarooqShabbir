@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">💬 Ask me about anything<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am overthinker<br>📧 farooq.shabbir24@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/farooq-shabbir-a8816b199/<br>Twitter: https://twitter.com/Farooq_itsme</p>
+<p align="center">💬 Ask me about anything<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am overthinker<br>📧 farooq.shabbir24@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/farooqshabbir</p>
 
 ###
 
